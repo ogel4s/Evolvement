@@ -5,7 +5,7 @@ At the end of the extraction process, a chart of connections between people is d
 
 # Installation
 
-1.After entering the Evolution folder, run the following command:
+1.After entering the Evolvement folder, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
@@ -24,7 +24,7 @@ python 615_import_firefox_session.py
 
 # Usage
 
-Run the evolvement.py file
+Run the evolvement.py file:
 ```bash 
 python evolvement.py
 ```
