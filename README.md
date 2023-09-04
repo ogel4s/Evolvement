@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 
-2.If you do not have the firefox browser, download it.
+2.If you do not have the **`firefox`** browser, download it.
 
 3.Log in to your account using the firefox browser.
 
