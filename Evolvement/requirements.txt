@@ -1,0 +1,4 @@
+instaloader==4.10
+keyboard==0.13.5
+progressbar33==2.4
+screeninfo==0.8.1
