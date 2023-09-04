@@ -1,7 +1,9 @@
 # Evolvement
-*A program to find connections between a primary target and the people they follow on Instagram
-This program takes an initial goal and recursively extracts the people who are followed by this goal until it reaches the depth of the program's input.
-At the end of the extraction process, a chart of connections between people is displayed*
+*A program to find connections between a primary target and the people they follow on Instagram*
+
+*This program takes an initial goal and recursively extracts the people who are followed by this goal until it reaches the depth of the program's input.*
+
+*At the end of the extraction process, a chart of connections between people is displayed*
 
 # Installation
 
